@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/spv-dev/agw/internal/buildinfo"
+	"github.com/spv-dev/agw/v2/internal/buildinfo"
 )
 
 func init() {
