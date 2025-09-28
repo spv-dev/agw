@@ -1,3 +1,3 @@
-module github.com/spv-dev/agw/v2
+module github.com/spv-dev/agw
 
 go 1.24.6
